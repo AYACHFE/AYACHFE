@@ -18,7 +18,6 @@ I'm aymane achfennar a computer science student at UM6P - 1337 MED (42 Network).
   
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on [getnextline](https://github.com/Bouhrir/getnexline)
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Bouhrir).
 - 👾 &nbsp; Fun fact: NULL is Not Zero in C.
