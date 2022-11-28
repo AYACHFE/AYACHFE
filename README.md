@@ -10,27 +10,10 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm aymane achfennar a computer science student at UM6P - 1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm aymane achfennar a computer science student at UM6P - 1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently working on my Data Structures and Algorithms 🤓.
 
 ### 42 Badge:
 [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aachfenn)](https://github.com/oakoudad/badge42)
-
-  
-### Talking about Personal Stuffs:
-
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Bouhrir).
-- 👾 &nbsp; Fun fact: NULL is Not Zero in C.
-- 📫 &nbsp; How to reach me: aymaneachfennar@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](CV).
-
-
-### My Absolute Favorites:
-
-- 📺 &nbsp; Watching movies and talk about iconic scenes.
-- 🥅 &nbsp; I love football, basketball and i'm a fan of LAKERS.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-
 
 ### Languages and Tools:
 
