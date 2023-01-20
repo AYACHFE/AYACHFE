@@ -35,15 +35,3 @@ I'm aymane achfennar a computer science student at UM6P - 1337 MED (42 Network).
   <div align=left>
     <a href="https://github.com/AYACHFE/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYACHFE&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-    <a href="https://github.com/AYACHFE/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AYACHFE&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AYACHFE&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
